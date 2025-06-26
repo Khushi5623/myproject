@@ -1,3 +1,4 @@
 # myproject
+
 this is my first git repository<br>
-Author-Khushi Singh
+Author-Khushi (student)
